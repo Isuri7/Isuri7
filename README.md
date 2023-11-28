@@ -1,7 +1,7 @@
 ![github-header-image(1)](https://github.com/Isuri7/Isuri7/assets/75952849/eeb8f56d-bc98-4b41-bd2f-531809f99d0f)
 <h1 align="center">Hi 👋, I'm Isuri Wijesinghe Gunaratne</h1>
 <h3 align="center">Software Engineering Trainee / Fullstack Developer </h3>
-<img align="right" alt="woman-coding" width="300" height="300" src="https://em-content.zobj.net/source/facebook/355/woman-technologist_1f469-200d-1f4bb.png" 
+<img align="right" alt="woman-coding" width="200" height="200" src="https://em-content.zobj.net/source/facebook/355/woman-technologist_1f469-200d-1f4bb.png" 
 
 - 🔭 I’m currently working as **Trainee Software Engineer at IJSE**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Framework**
 
 - 📫 How to reach me **isuriwgunaratne@gmail.com**
 
