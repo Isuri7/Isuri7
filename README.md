@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **Java, Spring Framework**
 
 - 📫 How to reach me **isuriwgunaratne@gmail.com**
