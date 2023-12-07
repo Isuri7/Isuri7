@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working as **Trainee Software Engineer at IJSE**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java, Spring Framework**
+- 🎓 I'm a recent graduate with a **Bachelor of Science in Engineering from the University of Moratuwa** 
 
 - 📫 How to reach me **isuriwgunaratne@gmail.com**
 
